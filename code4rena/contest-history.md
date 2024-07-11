@@ -1,9 +1,14 @@
 # Q1 2024
 
-| Contest Name                                                                                  | Time Frame          | Findings | Ranking | Report |
-| --------------------------------------------------------------------------------------------- | ------------------- | -------- | ------- | ------ |
-| [Coinbase SmartWallet](https://code4rena.com/audits/2024-03-smart-wallet) (as Circolors)      | Mar 15th - Mar 22nd | 1H       | 1       |        |
-| [PoolTogether](https://code4rena.com/audits/2024-03-pooltogether#top)                         | Mar 5th - Mar 12th  | 1H       | 35      |        |
-| [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure#top) | Feb 24th - Mar 6th  |          | 35      |        |
-| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top)                                 | Feb 10th - Feb 22nd | 4H 5M    | 72      |        |
-| [Curves](https://code4rena.com/audits/2024-01-curves#top)                                     | Jan 8th - Jan 13th  | 1H 3M    | 18      |        |
+| Contest Name                                                                                                               | Time Frame          | Findings | Ranking | Report                                                           | Notes                          |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------- | ------- | ---------------------------------------------------------------- | ------------------------------ |
+| [YOLO Games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219) (as Circolors)                         | May 27th - Jun 8th  | 1M       |         |                                                                  |                                |
+| [Munchables](https://code4rena.com/audits/2024-05-munchables#top)                                                          | May 22nd - May 27th | 1H       | 70      | [here](https://code4rena.com/reports/2024-05-munchables)         | 1 Finding Selected For Report  |
+| [Dyad](https://code4rena.com/audits/2024-04-dyad#top) (as Circolors)                                                       | Apr 18th - Apr 25th | 6H 2M    | 24      | [here](https://code4rena.com/reports/2024-04-dyad)               | 2 Findings Selected For Report |
+| [GoatTech](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80)                                          | Mar 19th - Apr 8th  | 1H       |
+| [Coinbase SmartWallet Mitigation Review](https://code4rena.com/audits/2024-04-coinbase-smart-wallet-mitigation-review#top) |                     |          | =1      |                                                                  | All Mitigations Accepted       |
+| [Coinbase SmartWallet](https://code4rena.com/audits/2024-03-smart-wallet) (as Circolors)                                   | Mar 15th - Mar 22nd | 1H       | 1       | [here](https://code4rena.com/reports/2024-03-coinbase)           | 1 Finding Selected For Report  |
+| [PoolTogether](https://code4rena.com/audits/2024-03-pooltogether#top)                                                      | Mar 5th - Mar 12th  | 1H       | 35      | [here](https://code4rena.com/reports/2024-03-pooltogether)       |                                |
+| [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure#top)                              | Feb 24th - Mar 6th  |          | 35      | [here](https://code4rena.com/reports/2024-02-uniswap-foundation) |                                |
+| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top)                                                              | Feb 10th - Feb 22nd | 4H 5M    | 72      | [here](https://code4rena.com/reports/2024-02-ai-arena)           |                                |
+| [Curves](https://code4rena.com/audits/2024-01-curves#top)                                                                  | Jan 8th - Jan 13th  | 1H 3M    | 18      |                                                                  |
